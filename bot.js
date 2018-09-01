@@ -1,6 +1,9 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const acc = new Discord.Client();
+const cmd = new Discord.Client();
+
+
 
 
 console.log("Welcome Again !");
